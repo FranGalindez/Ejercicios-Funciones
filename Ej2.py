@@ -9,4 +9,8 @@ def saludar():
     for x in range(len(nombres)):
         print("Hola " + str(nombres[x]),", ¿Qué tal?")
 
-saludar()
+saludar() 
+
+#HOLA
+
+print("que onda che")
